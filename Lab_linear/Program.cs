@@ -96,7 +96,7 @@ double fahrenheit = (celsius * 9 / 5) + 32;
 Console.WriteLine($"Температура в градусах Фаренгейта: {fahrenheit} ");
 
 // Завдання 8
-Console.Write(" Введiть значення y: ");
+Console.Write("введiть значення y: ");
 int y =
 Convert.ToInt32(Console.ReadLine());
 int sumOfNaturalNumbers = (y * (y + 1)) / 2;
